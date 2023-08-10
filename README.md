@@ -6,11 +6,11 @@ This project consists of a to-do list app. We will apply initial concepts to cre
 ## :books: Functionality
 * <b>Funcionality 1</b>: Manage Tasks
 
-* ## :wrench: Technologies
+## :wrench: Technologies
 * Tailwind CSS;
 * Angular JS
 
-  ## :soon: Future implementations
+## :soon: Future implementations
 * Convert HTML to Angular APP
 * Save objects in an Array
 
